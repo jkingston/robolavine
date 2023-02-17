@@ -1,0 +1,54 @@
+{
+    "title": "SEC Comes for Gemini Too Late",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "SEC Comes for Gemini Too Late"
+    },
+    "summary": "Also GTX claims trading, Goldman golfing and Razzlekhan.",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Also GTX claims trading, Goldman golfing and Razzlekhan."
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.bloomberg.com/opinion/articles/2023-01-17/sec-comes-for-gemini-too-late"
+        }
+    ],
+    "link": "https://www.bloomberg.com/opinion/articles/2023-01-17/sec-comes-for-gemini-too-late",
+    "id": "https://www.bloomberg.com/opinion/articles/2023-01-17/sec-comes-for-gemini-too-late",
+    "guidislink": false,
+    "tags": [
+        {
+            "term": "world",
+            "scheme": null,
+            "label": null
+        }
+    ],
+    "authors": [
+        {
+            "name": "Matt Levine"
+        }
+    ],
+    "author": "Matt Levine",
+    "author_detail": {
+        "name": "Matt Levine"
+    },
+    "published": "Tue, 17 Jan 2023 19:29:42 GMT",
+    "published_parsed": [
+        2023,
+        1,
+        17,
+        19,
+        29,
+        42,
+        1,
+        17,
+        0
+    ]
+}

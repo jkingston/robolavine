@@ -1,0 +1,54 @@
+{
+    "title": "Financial Engineering the Debt Ceiling",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Financial Engineering the Debt Ceiling"
+    },
+    "summary": "Also profitable nonprofits, FTX assets and WWE governance.",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Also profitable nonprofits, FTX assets and WWE governance."
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.bloomberg.com/opinion/articles/2023-01-11/financial-engineering-the-debt-ceiling"
+        }
+    ],
+    "link": "https://www.bloomberg.com/opinion/articles/2023-01-11/financial-engineering-the-debt-ceiling",
+    "id": "https://www.bloomberg.com/opinion/articles/2023-01-11/financial-engineering-the-debt-ceiling",
+    "guidislink": false,
+    "tags": [
+        {
+            "term": "world",
+            "scheme": null,
+            "label": null
+        }
+    ],
+    "authors": [
+        {
+            "name": "Matt Levine"
+        }
+    ],
+    "author": "Matt Levine",
+    "author_detail": {
+        "name": "Matt Levine"
+    },
+    "published": "Wed, 11 Jan 2023 19:37:17 GMT",
+    "published_parsed": [
+        2023,
+        1,
+        11,
+        19,
+        37,
+        17,
+        2,
+        11,
+        0
+    ]
+}

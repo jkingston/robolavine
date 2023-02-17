@@ -1,0 +1,54 @@
+{
+    "title": "Adani Has an Index Problem",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Adani Has an Index Problem"
+    },
+    "summary": "Also Bed Bath & Beyond, tax loss harvesting and the CEO of Goldman Sachs is also a DJ.",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Also Bed Bath & Beyond, tax loss harvesting and the CEO of Goldman Sachs is also a DJ."
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.bloomberg.com/opinion/articles/2023-02-09/adani-has-an-index-problem"
+        }
+    ],
+    "link": "https://www.bloomberg.com/opinion/articles/2023-02-09/adani-has-an-index-problem",
+    "id": "https://www.bloomberg.com/opinion/articles/2023-02-09/adani-has-an-index-problem",
+    "guidislink": false,
+    "tags": [
+        {
+            "term": "world",
+            "scheme": null,
+            "label": null
+        }
+    ],
+    "authors": [
+        {
+            "name": "Matt Levine"
+        }
+    ],
+    "author": "Matt Levine",
+    "author_detail": {
+        "name": "Matt Levine"
+    },
+    "published": "Thu, 09 Feb 2023 19:20:15 GMT",
+    "published_parsed": [
+        2023,
+        2,
+        9,
+        19,
+        20,
+        15,
+        3,
+        40,
+        0
+    ]
+}

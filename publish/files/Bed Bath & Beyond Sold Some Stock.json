@@ -1,0 +1,54 @@
+{
+    "title": "Bed Bath & Beyond Sold Some Stock",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Bed Bath & Beyond Sold Some Stock"
+    },
+    "summary": "Also accredited investor self-certification and the CEO of Goldman Sachs is also a DJ.",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Also accredited investor self-certification and the CEO of Goldman Sachs is also a DJ."
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.bloomberg.com/opinion/articles/2023-02-07/bed-bath-beyond-sold-some-stock"
+        }
+    ],
+    "link": "https://www.bloomberg.com/opinion/articles/2023-02-07/bed-bath-beyond-sold-some-stock",
+    "id": "https://www.bloomberg.com/opinion/articles/2023-02-07/bed-bath-beyond-sold-some-stock",
+    "guidislink": false,
+    "tags": [
+        {
+            "term": "world",
+            "scheme": null,
+            "label": null
+        }
+    ],
+    "authors": [
+        {
+            "name": "Matt Levine"
+        }
+    ],
+    "author": "Matt Levine",
+    "author_detail": {
+        "name": "Matt Levine"
+    },
+    "published": "Tue, 07 Feb 2023 20:07:13 GMT",
+    "published_parsed": [
+        2023,
+        2,
+        7,
+        20,
+        7,
+        13,
+        1,
+        38,
+        0
+    ]
+}

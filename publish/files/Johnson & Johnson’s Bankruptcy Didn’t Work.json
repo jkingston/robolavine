@@ -1,0 +1,54 @@
+{
+    "title": "Johnson & Johnson\u2019s Bankruptcy Didn\u2019t Work",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Johnson & Johnson\u2019s Bankruptcy Didn\u2019t Work"
+    },
+    "summary": "Also Celsius, APEs and Twitter interest.",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Also Celsius, APEs and Twitter interest."
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.bloomberg.com/opinion/articles/2023-01-31/matt-levine-johnson-johnson-s-jnj-bankruptcy-didn-t-work"
+        }
+    ],
+    "link": "https://www.bloomberg.com/opinion/articles/2023-01-31/matt-levine-johnson-johnson-s-jnj-bankruptcy-didn-t-work",
+    "id": "https://www.bloomberg.com/opinion/articles/2023-01-31/matt-levine-johnson-johnson-s-jnj-bankruptcy-didn-t-work",
+    "guidislink": false,
+    "tags": [
+        {
+            "term": "world",
+            "scheme": null,
+            "label": null
+        }
+    ],
+    "authors": [
+        {
+            "name": "Matt Levine"
+        }
+    ],
+    "author": "Matt Levine",
+    "author_detail": {
+        "name": "Matt Levine"
+    },
+    "published": "Tue, 31 Jan 2023 19:27:22 GMT",
+    "published_parsed": [
+        2023,
+        1,
+        31,
+        19,
+        27,
+        22,
+        1,
+        31,
+        0
+    ]
+}

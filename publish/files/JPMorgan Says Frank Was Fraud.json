@@ -1,0 +1,54 @@
+{
+    "title": "JPMorgan Says Frank Was Fraud",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "JPMorgan Says Frank Was Fraud"
+    },
+    "summary": "Also SBF\u2019s Substack and premium bond taxation.",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Also SBF\u2019s Substack and premium bond taxation."
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.bloomberg.com/opinion/articles/2023-01-12/jpmorgan-says-frank-was-fraud"
+        }
+    ],
+    "link": "https://www.bloomberg.com/opinion/articles/2023-01-12/jpmorgan-says-frank-was-fraud",
+    "id": "https://www.bloomberg.com/opinion/articles/2023-01-12/jpmorgan-says-frank-was-fraud",
+    "guidislink": false,
+    "tags": [
+        {
+            "term": "world",
+            "scheme": null,
+            "label": null
+        }
+    ],
+    "authors": [
+        {
+            "name": "Matt Levine"
+        }
+    ],
+    "author": "Matt Levine",
+    "author_detail": {
+        "name": "Matt Levine"
+    },
+    "published": "Thu, 12 Jan 2023 18:56:17 GMT",
+    "published_parsed": [
+        2023,
+        1,
+        12,
+        18,
+        56,
+        17,
+        3,
+        12,
+        0
+    ]
+}

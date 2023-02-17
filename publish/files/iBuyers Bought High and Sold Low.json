@@ -1,0 +1,54 @@
+{
+    "title": "iBuyers Bought High and Sold Low",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "iBuyers Bought High and Sold Low"
+    },
+    "summary": "Also a 1MDB valuation dispute, the SEC\u2019s Elon Musk Division, ESG fund managers and NFT First Amendment protections.",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Also a 1MDB valuation dispute, the SEC\u2019s Elon Musk Division, ESG fund managers and NFT First Amendment protections."
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.bloomberg.com/opinion/articles/2023-01-30/ibuyers-bought-high-and-sold-low"
+        }
+    ],
+    "link": "https://www.bloomberg.com/opinion/articles/2023-01-30/ibuyers-bought-high-and-sold-low",
+    "id": "https://www.bloomberg.com/opinion/articles/2023-01-30/ibuyers-bought-high-and-sold-low",
+    "guidislink": false,
+    "tags": [
+        {
+            "term": "world",
+            "scheme": null,
+            "label": null
+        }
+    ],
+    "authors": [
+        {
+            "name": "Matt Levine"
+        }
+    ],
+    "author": "Matt Levine",
+    "author_detail": {
+        "name": "Matt Levine"
+    },
+    "published": "Mon, 30 Jan 2023 19:27:35 GMT",
+    "published_parsed": [
+        2023,
+        1,
+        30,
+        19,
+        27,
+        35,
+        0,
+        30,
+        0
+    ]
+}

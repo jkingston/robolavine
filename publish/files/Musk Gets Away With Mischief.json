@@ -1,0 +1,54 @@
+{
+    "title": "Musk Gets Away With Mischief",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Musk Gets Away With Mischief"
+    },
+    "summary": "Also Innisfree, Activision and adverse possession.",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Also Innisfree, Activision and adverse possession."
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.bloomberg.com/opinion/articles/2023-02-06/musk-gets-away-with-mischief"
+        }
+    ],
+    "link": "https://www.bloomberg.com/opinion/articles/2023-02-06/musk-gets-away-with-mischief",
+    "id": "https://www.bloomberg.com/opinion/articles/2023-02-06/musk-gets-away-with-mischief",
+    "guidislink": false,
+    "tags": [
+        {
+            "term": "world",
+            "scheme": null,
+            "label": null
+        }
+    ],
+    "authors": [
+        {
+            "name": "Matt Levine"
+        }
+    ],
+    "author": "Matt Levine",
+    "author_detail": {
+        "name": "Matt Levine"
+    },
+    "published": "Mon, 06 Feb 2023 19:24:49 GMT",
+    "published_parsed": [
+        2023,
+        2,
+        6,
+        19,
+        24,
+        49,
+        0,
+        37,
+        0
+    ]
+}

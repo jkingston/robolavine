@@ -1,0 +1,54 @@
+{
+    "title": "FTX Is Planning a Comeback",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "FTX Is Planning a Comeback"
+    },
+    "summary": "Also Samcoin manipulation at Bitzlato customer support.",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Also Samcoin manipulation at Bitzlato customer support."
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.bloomberg.com/opinion/articles/2023-01-19/ftx-is-planning-a-comeback"
+        }
+    ],
+    "link": "https://www.bloomberg.com/opinion/articles/2023-01-19/ftx-is-planning-a-comeback",
+    "id": "https://www.bloomberg.com/opinion/articles/2023-01-19/ftx-is-planning-a-comeback",
+    "guidislink": false,
+    "tags": [
+        {
+            "term": "world",
+            "scheme": null,
+            "label": null
+        }
+    ],
+    "authors": [
+        {
+            "name": "Matt Levine"
+        }
+    ],
+    "author": "Matt Levine",
+    "author_detail": {
+        "name": "Matt Levine"
+    },
+    "published": "Thu, 19 Jan 2023 19:47:30 GMT",
+    "published_parsed": [
+        2023,
+        1,
+        19,
+        19,
+        47,
+        30,
+        3,
+        19,
+        0
+    ]
+}

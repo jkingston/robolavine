@@ -1,0 +1,54 @@
+{
+    "title": "AMC Has Some Clever APEs",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "AMC Has Some Clever APEs"
+    },
+    "summary": "Also active ESG share, M&amp;A drafting, and people have stopped worrying about bond market liquidity.",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Also active ESG share, M&amp;A drafting, and people have stopped worrying about bond market liquidity."
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.bloomberg.com/opinion/articles/2023-02-01/amc-has-some-clever-apes"
+        }
+    ],
+    "link": "https://www.bloomberg.com/opinion/articles/2023-02-01/amc-has-some-clever-apes",
+    "id": "https://www.bloomberg.com/opinion/articles/2023-02-01/amc-has-some-clever-apes",
+    "guidislink": false,
+    "tags": [
+        {
+            "term": "world",
+            "scheme": null,
+            "label": null
+        }
+    ],
+    "authors": [
+        {
+            "name": "Matt Levine"
+        }
+    ],
+    "author": "Matt Levine",
+    "author_detail": {
+        "name": "Matt Levine"
+    },
+    "published": "Wed, 01 Feb 2023 18:15:07 GMT",
+    "published_parsed": [
+        2023,
+        2,
+        1,
+        18,
+        15,
+        7,
+        2,
+        32,
+        0
+    ]
+}

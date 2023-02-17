@@ -1,0 +1,54 @@
+{
+    "title": "Crypto Banks Owe Themselves Money",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Crypto Banks Owe Themselves Money"
+    },
+    "summary": "Also WWE governance, VC shame and the origins of the jury.",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Also WWE governance, VC shame and the origins of the jury."
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.bloomberg.com/opinion/articles/2023-01-10/crypto-banks-owe-themselves-money"
+        }
+    ],
+    "link": "https://www.bloomberg.com/opinion/articles/2023-01-10/crypto-banks-owe-themselves-money",
+    "id": "https://www.bloomberg.com/opinion/articles/2023-01-10/crypto-banks-owe-themselves-money",
+    "guidislink": false,
+    "tags": [
+        {
+            "term": "world",
+            "scheme": null,
+            "label": null
+        }
+    ],
+    "authors": [
+        {
+            "name": "Matt Levine"
+        }
+    ],
+    "author": "Matt Levine",
+    "author_detail": {
+        "name": "Matt Levine"
+    },
+    "published": "Tue, 10 Jan 2023 18:59:38 GMT",
+    "published_parsed": [
+        2023,
+        1,
+        10,
+        18,
+        59,
+        38,
+        1,
+        10,
+        0
+    ]
+}

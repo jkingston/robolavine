@@ -1,0 +1,54 @@
+{
+    "title": "Three Arrows Gives Crypto Another Try",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Three Arrows Gives Crypto Another Try"
+    },
+    "summary": "Also Elon Musk Twitter fraud, LDI mark-to-market or not, meme-stock governance and corporate politics.",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Also Elon Musk Twitter fraud, LDI mark-to-market or not, meme-stock governance and corporate politics."
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.bloomberg.com/opinion/articles/2023-02-14/three-arrows-gives-crypto-another-try"
+        }
+    ],
+    "link": "https://www.bloomberg.com/opinion/articles/2023-02-14/three-arrows-gives-crypto-another-try",
+    "id": "https://www.bloomberg.com/opinion/articles/2023-02-14/three-arrows-gives-crypto-another-try",
+    "guidislink": false,
+    "tags": [
+        {
+            "term": "world",
+            "scheme": null,
+            "label": null
+        }
+    ],
+    "authors": [
+        {
+            "name": "Matt Levine"
+        }
+    ],
+    "author": "Matt Levine",
+    "author_detail": {
+        "name": "Matt Levine"
+    },
+    "published": "Tue, 14 Feb 2023 19:54:30 GMT",
+    "published_parsed": [
+        2023,
+        2,
+        14,
+        19,
+        54,
+        30,
+        1,
+        45,
+        0
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "title": "The SEC Comes for Crypto Custody",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "The SEC Comes for Crypto Custody"
+    },
+    "summary": "Also million-vote preferred stock, designated counsel and CEO handwriting.",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Also million-vote preferred stock, designated counsel and CEO handwriting."
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.bloomberg.com/opinion/articles/2023-02-16/the-sec-comes-for-crypto-custody"
+        }
+    ],
+    "link": "https://www.bloomberg.com/opinion/articles/2023-02-16/the-sec-comes-for-crypto-custody",
+    "id": "https://www.bloomberg.com/opinion/articles/2023-02-16/the-sec-comes-for-crypto-custody",
+    "guidislink": false,
+    "tags": [
+        {
+            "term": "world",
+            "scheme": null,
+            "label": null
+        }
+    ],
+    "authors": [
+        {
+            "name": "Matt Levine"
+        }
+    ],
+    "author": "Matt Levine",
+    "author_detail": {
+        "name": "Matt Levine"
+    },
+    "published": "Thu, 16 Feb 2023 19:52:45 GMT",
+    "published_parsed": [
+        2023,
+        2,
+        16,
+        19,
+        52,
+        45,
+        3,
+        47,
+        0
+    ]
+}

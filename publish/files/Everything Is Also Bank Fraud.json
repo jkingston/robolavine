@@ -1,0 +1,54 @@
+{
+    "title": "Everything Is Also Bank Fraud",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Everything Is Also Bank Fraud"
+    },
+    "summary": "Also Mango manipulation, Musk M&amp;A fees and skin in the ESG game.",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Also Mango manipulation, Musk M&amp;A fees and skin in the ESG game."
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.bloomberg.com/opinion/articles/2023-01-23/everything-is-also-bank-fraud"
+        }
+    ],
+    "link": "https://www.bloomberg.com/opinion/articles/2023-01-23/everything-is-also-bank-fraud",
+    "id": "https://www.bloomberg.com/opinion/articles/2023-01-23/everything-is-also-bank-fraud",
+    "guidislink": false,
+    "tags": [
+        {
+            "term": "world",
+            "scheme": null,
+            "label": null
+        }
+    ],
+    "authors": [
+        {
+            "name": "Matt Levine"
+        }
+    ],
+    "author": "Matt Levine",
+    "author_detail": {
+        "name": "Matt Levine"
+    },
+    "published": "Mon, 23 Jan 2023 19:20:14 GMT",
+    "published_parsed": [
+        2023,
+        1,
+        23,
+        19,
+        20,
+        14,
+        0,
+        23,
+        0
+    ]
+}

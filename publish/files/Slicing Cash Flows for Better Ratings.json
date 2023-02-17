@@ -1,0 +1,54 @@
+{
+    "title": "Slicing Cash Flows for Better Ratings",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Slicing Cash Flows for Better Ratings"
+    },
+    "summary": "Also an FTX code review, the prevalence of fraud, and some average Meta employees.",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Also an FTX code review, the prevalence of fraud, and some average Meta employees."
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.bloomberg.com/opinion/articles/2023-01-18/slicing-cash-flows-for-better-ratings"
+        }
+    ],
+    "link": "https://www.bloomberg.com/opinion/articles/2023-01-18/slicing-cash-flows-for-better-ratings",
+    "id": "https://www.bloomberg.com/opinion/articles/2023-01-18/slicing-cash-flows-for-better-ratings",
+    "guidislink": false,
+    "tags": [
+        {
+            "term": "world",
+            "scheme": null,
+            "label": null
+        }
+    ],
+    "authors": [
+        {
+            "name": "Matt Levine"
+        }
+    ],
+    "author": "Matt Levine",
+    "author_detail": {
+        "name": "Matt Levine"
+    },
+    "published": "Wed, 18 Jan 2023 19:45:54 GMT",
+    "published_parsed": [
+        2023,
+        1,
+        18,
+        19,
+        45,
+        54,
+        2,
+        18,
+        0
+    ]
+}

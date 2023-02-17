@@ -1,0 +1,54 @@
+{
+    "title": "Elon Musk Never Jokes",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Elon Musk Never Jokes"
+    },
+    "summary": "Weed jokes, fundraising skills, merger processes, plus Americanas and the Cravath Walk.",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Weed jokes, fundraising skills, merger processes, plus Americanas and the Cravath Walk."
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.bloomberg.com/opinion/articles/2023-01-24/elon-musk-never-jokes"
+        }
+    ],
+    "link": "https://www.bloomberg.com/opinion/articles/2023-01-24/elon-musk-never-jokes",
+    "id": "https://www.bloomberg.com/opinion/articles/2023-01-24/elon-musk-never-jokes",
+    "guidislink": false,
+    "tags": [
+        {
+            "term": "world",
+            "scheme": null,
+            "label": null
+        }
+    ],
+    "authors": [
+        {
+            "name": "Matt Levine"
+        }
+    ],
+    "author": "Matt Levine",
+    "author_detail": {
+        "name": "Matt Levine"
+    },
+    "published": "Tue, 24 Jan 2023 19:24:41 GMT",
+    "published_parsed": [
+        2023,
+        1,
+        24,
+        19,
+        24,
+        41,
+        1,
+        24,
+        0
+    ]
+}
