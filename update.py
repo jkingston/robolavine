@@ -8,6 +8,7 @@ from feedgen.feed import FeedGenerator
 import os
 import sys
 import unicodedata
+import urllib.parse
 
 if len(sys.argv) == 1:
     outdir = "./publish"
@@ -92,11 +93,14 @@ for episode in episodes:
     metadata_path = unicodedata.normalize("NFKC", f"{filesdir}/{title}.json")
     with open(metadata_path, "r") as f:
         metadata = json.load(f)
-    
+
+    episode_url = f"{base_url}/files/{urllib.parse.quote(episode)}"
+
     fe = fg.add_entry()
-    fe.id(f"{base_url}/files/{episode}")
+    fe.id(episode_url)
     fe.title(metadata['title'])
     fe.description(metadata['summary'])
-    fe.enclosure(f"{base_url}/files/{episode}", str(os.stat(f"{filesdir}/{episode}").st_size), "audio/mpeg")
+    fe.enclosure(episode_url, str(os.stat(f"{filesdir}/{episode}").st_size), "audio/mpeg")
+    fe.published(metadata['published'])
 
-fg.rss_file(f"{outdir}/podcast.rss")
+fg.rss_file(f"{outdir}/podcast.rss", pretty=True)
