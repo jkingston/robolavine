@@ -16,7 +16,7 @@ if len(sys.argv) == 1:
 else:
     outdir = sys.argv[1]
 
-base_url = "https://heartfelt-kleicha-e5d7f4.netlify.app"
+base_url = "https://robolevine.netlify.app"
 
 if not os.path.exists(outdir):
     os.mkdir(outdir)
