@@ -87,7 +87,7 @@ fg.title("Robo-Matt Levine")
 fg.link({"href": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine"})
 fg.description("Robo-Matt Levine")
 fg.language("en-us")
-fg.podcast.itunes_image(f"{base_url}/artwork.png")
+fg.podcast.itunes_image(f"{base_url}/artwork.jpg")
 fg.podcast.itunes_explicit("no")
 
 episodes = [ f for f in os.listdir(filesdir) if f.endswith(".mp3") ]
