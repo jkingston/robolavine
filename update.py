@@ -84,7 +84,7 @@ fg.load_extension('podcast', rss=True)
 
 fg.podcast.itunes_category('News', 'Business News')
 fg.title("Robo-Matt Levine")
-fg.link({"href": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine"})
+fg.link({"href": "https://robolevine.netlify.app"})
 fg.description("Robo-Matt Levine")
 fg.language("en-us")
 fg.podcast.itunes_image(f"{base_url}/artwork.jpg")
