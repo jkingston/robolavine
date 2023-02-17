@@ -85,6 +85,7 @@ fg.podcast.itunes_category('News', 'Business News')
 fg.title("Robo-Matt Levine")
 fg.link({"href": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine"})
 fg.description("Robo-Matt Levine")
+fg.podcast.itunes_image("artwork.png")
 
 episodes = [ f for f in os.listdir(filesdir) if f.endswith(".mp3") ]
 
@@ -102,6 +103,5 @@ for episode in episodes:
     fe.description(metadata['summary'])
     fe.enclosure(episode_url, str(os.stat(f"{filesdir}/{episode}").st_size), "audio/mpeg")
     fe.pubDate(metadata['published'])
-    fe.published(metadata['published'])
 
 fg.rss_file(f"{outdir}/podcast.rss", pretty=True)
