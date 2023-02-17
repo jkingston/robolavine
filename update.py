@@ -101,6 +101,7 @@ for episode in episodes:
     fe.title(metadata['title'])
     fe.description(metadata['summary'])
     fe.enclosure(episode_url, str(os.stat(f"{filesdir}/{episode}").st_size), "audio/mpeg")
+    fe.pubDate(metadata['published'])
     fe.published(metadata['published'])
 
 fg.rss_file(f"{outdir}/podcast.rss", pretty=True)
