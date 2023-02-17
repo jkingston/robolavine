@@ -15,7 +15,7 @@ if len(sys.argv) == 1:
 else:
     outdir = sys.argv[1]
 
-base_url = "https://63efd2f9d13069226104c17e--heartfelt-kleicha-e5d7f4.netlify.app"
+base_url = "https://heartfelt-kleicha-e5d7f4.netlify.app"
 
 if not os.path.exists(outdir):
     os.mkdir(outdir)
@@ -85,7 +85,7 @@ fg.podcast.itunes_category('News', 'Business News')
 fg.title("Robo-Matt Levine")
 fg.link({"href": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine"})
 fg.description("Robo-Matt Levine")
-fg.podcast.itunes_image("artwork.png")
+fg.podcast.itunes_image(f"{base_url}/artwork.png")
 
 episodes = [ f for f in os.listdir(filesdir) if f.endswith(".mp3") ]
 
