@@ -5,6 +5,7 @@ import tts
 import json
 from pydub import AudioSegment
 from feedgen.feed import FeedGenerator
+import mutagen.mp3
 import os
 import sys
 import unicodedata
@@ -96,12 +97,16 @@ for episode in episodes:
         metadata = json.load(f)
 
     episode_url = f"{base_url}/files/{urllib.parse.quote(episode)}"
+    episode_path = f"{filesdir}/{episode}"
+
+    duration_seconds = int(mutagen.mp3.MP3(episode_path).info.length)
 
     fe = fg.add_entry()
     fe.id(episode_url)
     fe.title(metadata['title'])
     fe.description(metadata['summary'])
-    fe.enclosure(episode_url, str(os.stat(f"{filesdir}/{episode}").st_size), "audio/mpeg")
+    fe.enclosure(episode_url, str(os.stat(episode_path).st_size), "audio/mpeg")
     fe.pubDate(metadata['published'])
+    fe.podcast.itunes_duration(duration_seconds)
 
 fg.rss_file(f"{outdir}/podcast.rss", pretty=True)
