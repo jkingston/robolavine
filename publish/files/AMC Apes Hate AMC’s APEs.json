@@ -1,0 +1,54 @@
+{
+    "title": "AMC Apes Hate AMC\u2019s APEs",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "AMC Apes Hate AMC\u2019s APEs"
+    },
+    "summary": "Also more weird voting preferred stock, Mormon church investments, Bridgewater succession, top-earning hedge funds and the IPO-to-LBO pipeline.",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Also more weird voting preferred stock, Mormon church investments, Bridgewater succession, top-earning hedge funds and the IPO-to-LBO pipeline."
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.bloomberg.com/opinion/articles/2023-02-21/amc-apes-hate-amc-s-apes"
+        }
+    ],
+    "link": "https://www.bloomberg.com/opinion/articles/2023-02-21/amc-apes-hate-amc-s-apes",
+    "id": "https://www.bloomberg.com/opinion/articles/2023-02-21/amc-apes-hate-amc-s-apes",
+    "guidislink": false,
+    "tags": [
+        {
+            "term": "world",
+            "scheme": null,
+            "label": null
+        }
+    ],
+    "authors": [
+        {
+            "name": "Matt Levine"
+        }
+    ],
+    "author": "Matt Levine",
+    "author_detail": {
+        "name": "Matt Levine"
+    },
+    "published": "Tue, 21 Feb 2023 19:32:25 GMT",
+    "published_parsed": [
+        2023,
+        2,
+        21,
+        19,
+        32,
+        25,
+        1,
+        52,
+        0
+    ]
+}
