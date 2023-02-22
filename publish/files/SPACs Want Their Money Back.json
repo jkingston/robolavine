@@ -1,0 +1,54 @@
+{
+    "title": "SPACs Want Their Money Back",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "SPACs Want Their Money Back"
+    },
+    "summary": "Also Credit Suisse outflows, Deutsche Bank investigations and ransomware layoffs.",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Also Credit Suisse outflows, Deutsche Bank investigations and ransomware layoffs."
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.bloomberg.com/opinion/articles/2023-02-22/spacs-want-their-money-back"
+        }
+    ],
+    "link": "https://www.bloomberg.com/opinion/articles/2023-02-22/spacs-want-their-money-back",
+    "id": "https://www.bloomberg.com/opinion/articles/2023-02-22/spacs-want-their-money-back",
+    "guidislink": false,
+    "tags": [
+        {
+            "term": "world",
+            "scheme": null,
+            "label": null
+        }
+    ],
+    "authors": [
+        {
+            "name": "Matt Levine"
+        }
+    ],
+    "author": "Matt Levine",
+    "author_detail": {
+        "name": "Matt Levine"
+    },
+    "published": "Wed, 22 Feb 2023 19:32:51 GMT",
+    "published_parsed": [
+        2023,
+        2,
+        22,
+        19,
+        32,
+        51,
+        2,
+        53,
+        0
+    ]
+}
