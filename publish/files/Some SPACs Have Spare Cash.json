@@ -1,0 +1,54 @@
+{
+    "title": "Some SPACs Have Spare Cash",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Some SPACs Have Spare Cash"
+    },
+    "summary": "Also the SBF indictment, Purple\u2019s PRPLS problems and alleged Kodak insider trading.",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Also the SBF indictment, Purple\u2019s PRPLS problems and alleged Kodak insider trading."
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.bloomberg.com/opinion/articles/2023-02-24/some-spacs-have-spare-cash"
+        }
+    ],
+    "link": "https://www.bloomberg.com/opinion/articles/2023-02-24/some-spacs-have-spare-cash",
+    "id": "https://www.bloomberg.com/opinion/articles/2023-02-24/some-spacs-have-spare-cash",
+    "guidislink": false,
+    "tags": [
+        {
+            "term": "world",
+            "scheme": null,
+            "label": null
+        }
+    ],
+    "authors": [
+        {
+            "name": "Matt Levine"
+        }
+    ],
+    "author": "Matt Levine",
+    "author_detail": {
+        "name": "Matt Levine"
+    },
+    "published": "Fri, 24 Feb 2023 17:26:12 GMT",
+    "published_parsed": [
+        2023,
+        2,
+        24,
+        17,
+        26,
+        12,
+        4,
+        55,
+        0
+    ]
+}

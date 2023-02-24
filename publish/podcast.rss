@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Feb 2023 08:15:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Feb 2023 21:50:34 +0000</lastBuildDate>
     <itunes:category text="News">
       <itunes:category text="Business News"/>
     </itunes:category>
@@ -132,6 +132,14 @@
       <enclosure url="https://robolevine.netlify.app/files/Bed%20Bath%20%26%20Beyond%20Got%20Its%20Deal%20Done.mp3" length="4432684" type="audio/mpeg"/>
       <pubDate>Wed, 08 Feb 2023 19:24:40 +0000</pubDate>
       <itunes:duration>1108</itunes:duration>
+    </item>
+    <item>
+      <title>Some SPACs Have Spare Cash</title>
+      <description>Also the SBF indictment, Purple’s PRPLS problems and alleged Kodak insider trading.</description>
+      <guid isPermaLink="false">https://robolevine.netlify.app/files/Some%20SPACs%20Have%20Spare%20Cash.mp3</guid>
+      <enclosure url="https://robolevine.netlify.app/files/Some%20SPACs%20Have%20Spare%20Cash.mp3" length="5164740" type="audio/mpeg"/>
+      <pubDate>Fri, 24 Feb 2023 17:26:12 +0000</pubDate>
+      <itunes:duration>1291</itunes:duration>
     </item>
     <item>
       <title>AMC Has Some Clever APEs</title>
