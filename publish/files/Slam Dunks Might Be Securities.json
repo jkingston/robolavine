@@ -1,0 +1,54 @@
+{
+    "title": "Slam Dunks Might Be Securities",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Slam Dunks Might Be Securities"
+    },
+    "summary": "Also Ozy, VC regrets and MoviePass.",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Also Ozy, VC regrets and MoviePass."
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.bloomberg.com/opinion/articles/2023-02-23/slam-dunks-might-be-securities"
+        }
+    ],
+    "link": "https://www.bloomberg.com/opinion/articles/2023-02-23/slam-dunks-might-be-securities",
+    "id": "https://www.bloomberg.com/opinion/articles/2023-02-23/slam-dunks-might-be-securities",
+    "guidislink": false,
+    "tags": [
+        {
+            "term": "world",
+            "scheme": null,
+            "label": null
+        }
+    ],
+    "authors": [
+        {
+            "name": "Matt Levine"
+        }
+    ],
+    "author": "Matt Levine",
+    "author_detail": {
+        "name": "Matt Levine"
+    },
+    "published": "Thu, 23 Feb 2023 18:42:48 GMT",
+    "published_parsed": [
+        2023,
+        2,
+        23,
+        18,
+        42,
+        48,
+        3,
+        54,
+        0
+    ]
+}
