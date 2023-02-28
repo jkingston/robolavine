@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Feb 2023 21:50:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Feb 2023 08:00:04 +0000</lastBuildDate>
     <itunes:category text="News">
       <itunes:category text="Business News"/>
     </itunes:category>
@@ -20,6 +20,14 @@
       <enclosure url="https://robolevine.netlify.app/files/The%20SEC%20Cracks%20Down%20on%20Crypto.mp3" length="5789902" type="audio/mpeg"/>
       <pubDate>Mon, 13 Feb 2023 19:30:57 +0000</pubDate>
       <itunes:duration>1447</itunes:duration>
+    </item>
+    <item>
+      <title>Wirecard Had a Wild Run</title>
+      <description>Also ChatGPT at banks, biochar, the Wormhole reverse hack and the wrong Base.</description>
+      <guid isPermaLink="false">https://robolevine.netlify.app/files/Wirecard%20Had%20a%20Wild%20Run.mp3</guid>
+      <enclosure url="https://robolevine.netlify.app/files/Wirecard%20Had%20a%20Wild%20Run.mp3" length="4606973" type="audio/mpeg"/>
+      <pubDate>Mon, 27 Feb 2023 18:43:19 +0000</pubDate>
+      <itunes:duration>1151</itunes:duration>
     </item>
     <item>
       <title>Bed Bath &amp; Beyond Sold Some Stock</title>

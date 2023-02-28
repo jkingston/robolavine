@@ -1,0 +1,54 @@
+{
+    "title": "Wirecard Had a Wild Run",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Wirecard Had a Wild Run"
+    },
+    "summary": "Also ChatGPT at banks, biochar, the Wormhole reverse hack and the wrong Base.",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Also ChatGPT at banks, biochar, the Wormhole reverse hack and the wrong Base."
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.bloomberg.com/opinion/articles/2023-02-27/wirecard-had-a-wild-run"
+        }
+    ],
+    "link": "https://www.bloomberg.com/opinion/articles/2023-02-27/wirecard-had-a-wild-run",
+    "id": "https://www.bloomberg.com/opinion/articles/2023-02-27/wirecard-had-a-wild-run",
+    "guidislink": false,
+    "tags": [
+        {
+            "term": "world",
+            "scheme": null,
+            "label": null
+        }
+    ],
+    "authors": [
+        {
+            "name": "Matt Levine"
+        }
+    ],
+    "author": "Matt Levine",
+    "author_detail": {
+        "name": "Matt Levine"
+    },
+    "published": "Mon, 27 Feb 2023 18:43:19 GMT",
+    "published_parsed": [
+        2023,
+        2,
+        27,
+        18,
+        43,
+        19,
+        0,
+        58,
+        0
+    ]
+}
