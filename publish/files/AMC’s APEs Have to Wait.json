@@ -1,0 +1,54 @@
+{
+    "title": "AMC\u2019s APEs Have to Wait",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "AMC\u2019s APEs Have to Wait"
+    },
+    "summary": "Also Tilray, Norfolk Southern and Elon Musk AI.",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Also Tilray, Norfolk Southern and Elon Musk AI."
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.bloomberg.com/opinion/articles/2023-02-28/amc-s-apes-have-to-wait"
+        }
+    ],
+    "link": "https://www.bloomberg.com/opinion/articles/2023-02-28/amc-s-apes-have-to-wait",
+    "id": "https://www.bloomberg.com/opinion/articles/2023-02-28/amc-s-apes-have-to-wait",
+    "guidislink": false,
+    "tags": [
+        {
+            "term": "world",
+            "scheme": null,
+            "label": null
+        }
+    ],
+    "authors": [
+        {
+            "name": "Matt Levine"
+        }
+    ],
+    "author": "Matt Levine",
+    "author_detail": {
+        "name": "Matt Levine"
+    },
+    "published": "Tue, 28 Feb 2023 17:28:52 GMT",
+    "published_parsed": [
+        2023,
+        2,
+        28,
+        17,
+        28,
+        52,
+        1,
+        59,
+        0
+    ]
+}
