@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Mar 2023 08:44:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Mar 2023 22:24:26 +0000</lastBuildDate>
     <itunes:category text="News">
       <itunes:category text="Business News"/>
     </itunes:category>
@@ -116,6 +116,22 @@
       <enclosure url="https://robolevine.netlify.app/files/Johnson%20%26%20Johnson%E2%80%99s%C2%A0Bankruptcy%20Didn%E2%80%99t%20Work.mp3" length="5090970" type="audio/mpeg"/>
       <pubDate>Tue, 31 Jan 2023 19:27:22 +0000</pubDate>
       <itunes:duration>1272</itunes:duration>
+    </item>
+    <item>
+      <title>Silvergate Had a Crypto Bank Run</title>
+      <description>Also the Washington Commanders’ private-jet fees, Greenbrier’s private-jet fees, private-equity advisory boards’ luxury travel and LJIM/SJIM.</description>
+      <guid isPermaLink="false">https://robolevine.netlify.app/files/Silvergate%20Had%20a%20Crypto%20Bank%20Run.mp3</guid>
+      <enclosure url="https://robolevine.netlify.app/files/Silvergate%20Had%20a%20Crypto%20Bank%20Run.mp3" length="7155270" type="audio/mpeg"/>
+      <pubDate>Thu, 02 Mar 2023 19:22:53 +0000</pubDate>
+      <itunes:duration>1788</itunes:duration>
+    </item>
+    <item>
+      <title>Goldman Wants to Be More Boring</title>
+      <description>Also ESG blackmail, Greensill blame and MakerDAO stablecoins.</description>
+      <guid isPermaLink="false">https://robolevine.netlify.app/files/Goldman%20Wants%20to%20Be%20More%20Boring.mp3</guid>
+      <enclosure url="https://robolevine.netlify.app/files/Goldman%20Wants%20to%20Be%20More%20Boring.mp3" length="4596002" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Mar 2023 19:00:18 +0000</pubDate>
+      <itunes:duration>1148</itunes:duration>
     </item>
     <item>
       <title>ChatGPT Is Not Much of a Pitch Robot</title>

@@ -1,0 +1,54 @@
+{
+    "title": "Silvergate Had a Crypto Bank Run",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Silvergate Had a Crypto Bank Run"
+    },
+    "summary": "Also the Washington Commanders\u2019 private-jet fees, Greenbrier\u2019s private-jet fees, private-equity advisory boards\u2019 luxury travel and LJIM/SJIM.",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Also the Washington Commanders\u2019 private-jet fees, Greenbrier\u2019s private-jet fees, private-equity advisory boards\u2019 luxury travel and LJIM/SJIM."
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.bloomberg.com/opinion/articles/2023-03-02/silvergate-had-a-crypto-bank-run"
+        }
+    ],
+    "link": "https://www.bloomberg.com/opinion/articles/2023-03-02/silvergate-had-a-crypto-bank-run",
+    "id": "https://www.bloomberg.com/opinion/articles/2023-03-02/silvergate-had-a-crypto-bank-run",
+    "guidislink": false,
+    "tags": [
+        {
+            "term": "world",
+            "scheme": null,
+            "label": null
+        }
+    ],
+    "authors": [
+        {
+            "name": "Matt Levine"
+        }
+    ],
+    "author": "Matt Levine",
+    "author_detail": {
+        "name": "Matt Levine"
+    },
+    "published": "Thu, 02 Mar 2023 19:22:53 GMT",
+    "published_parsed": [
+        2023,
+        3,
+        2,
+        19,
+        22,
+        53,
+        3,
+        61,
+        0
+    ]
+}

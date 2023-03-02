@@ -1,0 +1,54 @@
+{
+    "title": "Goldman Wants to Be More Boring",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Goldman Wants to Be More Boring"
+    },
+    "summary": "Also ESG blackmail, Greensill blame and MakerDAO stablecoins.",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Also ESG blackmail, Greensill blame and MakerDAO stablecoins."
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.bloomberg.com/opinion/articles/2023-03-01/goldman-wants-to-be-more-boring"
+        }
+    ],
+    "link": "https://www.bloomberg.com/opinion/articles/2023-03-01/goldman-wants-to-be-more-boring",
+    "id": "https://www.bloomberg.com/opinion/articles/2023-03-01/goldman-wants-to-be-more-boring",
+    "guidislink": false,
+    "tags": [
+        {
+            "term": "world",
+            "scheme": null,
+            "label": null
+        }
+    ],
+    "authors": [
+        {
+            "name": "Matt Levine"
+        }
+    ],
+    "author": "Matt Levine",
+    "author_detail": {
+        "name": "Matt Levine"
+    },
+    "published": "Wed, 01 Mar 2023 19:00:18 GMT",
+    "published_parsed": [
+        2023,
+        3,
+        1,
+        19,
+        0,
+        18,
+        2,
+        60,
+        0
+    ]
+}
