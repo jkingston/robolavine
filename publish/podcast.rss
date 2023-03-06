@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Mar 2023 19:30:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Mar 2023 20:03:10 +0000</lastBuildDate>
     <itunes:category text="News">
       <itunes:category text="Business News"/>
     </itunes:category>
@@ -92,6 +92,14 @@
       <enclosure url="https://robolevine.netlify.app/files/AMC%20Apes%20Hate%20AMC%E2%80%99s%20APEs.mp3" length="5636511" type="audio/mpeg"/>
       <pubDate>Tue, 21 Feb 2023 19:32:25 +0000</pubDate>
       <itunes:duration>1409</itunes:duration>
+    </item>
+    <item>
+      <title>Bed Bath &amp; Beyond Stock Is On Sale</title>
+      <description>Also Tether’s banks, Binance’s chats, Multicoin’s returns, Citadel’s meteorologists, TARA/TAPAS/TIARA and Jim Cramer shorting himself.</description>
+      <guid isPermaLink="false">https://robolevine.netlify.app/files/Bed%20Bath%20%26%20Beyond%20Stock%20Is%20On%20Sale.mp3</guid>
+      <enclosure url="https://robolevine.netlify.app/files/Bed%20Bath%20%26%20Beyond%20Stock%20Is%20On%20Sale.mp3" length="5499525" type="audio/mpeg"/>
+      <pubDate>Mon, 06 Mar 2023 19:29:27 +0000</pubDate>
+      <itunes:duration>1374</itunes:duration>
     </item>
     <item>
       <title>Three Arrows Gives Crypto Another Try</title>

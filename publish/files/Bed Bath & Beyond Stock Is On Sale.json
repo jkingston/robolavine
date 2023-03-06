@@ -1,0 +1,54 @@
+{
+    "title": "Bed Bath & Beyond Stock Is On Sale",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Bed Bath & Beyond Stock Is On Sale"
+    },
+    "summary": "Also Tether\u2019s banks, Binance\u2019s chats, Multicoin\u2019s returns, Citadel\u2019s meteorologists, TARA/TAPAS/TIARA and Jim Cramer shorting himself.",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Also Tether\u2019s banks, Binance\u2019s chats, Multicoin\u2019s returns, Citadel\u2019s meteorologists, TARA/TAPAS/TIARA and Jim Cramer shorting himself."
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.bloomberg.com/opinion/articles/2023-03-06/bed-bath-beyond-stock-is-on-sale"
+        }
+    ],
+    "link": "https://www.bloomberg.com/opinion/articles/2023-03-06/bed-bath-beyond-stock-is-on-sale",
+    "id": "https://www.bloomberg.com/opinion/articles/2023-03-06/bed-bath-beyond-stock-is-on-sale",
+    "guidislink": false,
+    "tags": [
+        {
+            "term": "world",
+            "scheme": null,
+            "label": null
+        }
+    ],
+    "authors": [
+        {
+            "name": "Matt Levine"
+        }
+    ],
+    "author": "Matt Levine",
+    "author_detail": {
+        "name": "Matt Levine"
+    },
+    "published": "Mon, 06 Mar 2023 19:29:27 GMT",
+    "published_parsed": [
+        2023,
+        3,
+        6,
+        19,
+        29,
+        27,
+        0,
+        65,
+        0
+    ]
+}
