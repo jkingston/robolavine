@@ -1,0 +1,54 @@
+{
+    "title": "Crypto Bank Had a Boring Collapse",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Crypto Bank Had a Boring Collapse"
+    },
+    "summary": "Also Silicon Valley Bank, WWE betting, Bed Bath & Beyond funding, 3NC1 bonds and Fund Manager of the Year runners-up.",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Also Silicon Valley Bank, WWE betting, Bed Bath & Beyond funding, 3NC1 bonds and Fund Manager of the Year runners-up."
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.bloomberg.com/opinion/articles/2023-03-09/crypto-bank-had-a-boring-collapse"
+        }
+    ],
+    "link": "https://www.bloomberg.com/opinion/articles/2023-03-09/crypto-bank-had-a-boring-collapse",
+    "id": "https://www.bloomberg.com/opinion/articles/2023-03-09/crypto-bank-had-a-boring-collapse",
+    "guidislink": false,
+    "tags": [
+        {
+            "term": "world",
+            "scheme": null,
+            "label": null
+        }
+    ],
+    "authors": [
+        {
+            "name": "Matt Levine"
+        }
+    ],
+    "author": "Matt Levine",
+    "author_detail": {
+        "name": "Matt Levine"
+    },
+    "published": "Thu, 09 Mar 2023 19:22:07 GMT",
+    "published_parsed": [
+        2023,
+        3,
+        9,
+        19,
+        22,
+        7,
+        3,
+        68,
+        0
+    ]
+}

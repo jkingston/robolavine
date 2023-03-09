@@ -1,0 +1,54 @@
+{
+    "title": "The Good Hedge Funds Always Get Paid",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "The Good Hedge Funds Always Get Paid"
+    },
+    "summary": "Also 10b5-1 plan abuse and some Elon Musk stuff.",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Also 10b5-1 plan abuse and some Elon Musk stuff."
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.bloomberg.com/opinion/articles/2023-03-08/the-good-hedge-funds-always-get-paid"
+        }
+    ],
+    "link": "https://www.bloomberg.com/opinion/articles/2023-03-08/the-good-hedge-funds-always-get-paid",
+    "id": "https://www.bloomberg.com/opinion/articles/2023-03-08/the-good-hedge-funds-always-get-paid",
+    "guidislink": false,
+    "tags": [
+        {
+            "term": "world",
+            "scheme": null,
+            "label": null
+        }
+    ],
+    "authors": [
+        {
+            "name": "Matt Levine"
+        }
+    ],
+    "author": "Matt Levine",
+    "author_detail": {
+        "name": "Matt Levine"
+    },
+    "published": "Wed, 08 Mar 2023 18:27:53 GMT",
+    "published_parsed": [
+        2023,
+        3,
+        8,
+        18,
+        27,
+        53,
+        2,
+        67,
+        0
+    ]
+}
