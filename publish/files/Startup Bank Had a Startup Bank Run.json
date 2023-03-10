@@ -1,0 +1,54 @@
+{
+    "title": "Startup Bank Had a Startup Bank Run",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "Startup Bank Had a Startup Bank Run"
+    },
+    "summary": "One problem for Silicon Valley Bank is that its customers had too much cash, and now they don\u2019t.",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+        "value": "One problem for Silicon Valley Bank is that its customers had too much cash, and now they don\u2019t."
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.bloomberg.com/opinion/articles/2023-03-10/startup-bank-had-a-startup-bank-run"
+        }
+    ],
+    "link": "https://www.bloomberg.com/opinion/articles/2023-03-10/startup-bank-had-a-startup-bank-run",
+    "id": "https://www.bloomberg.com/opinion/articles/2023-03-10/startup-bank-had-a-startup-bank-run",
+    "guidislink": false,
+    "tags": [
+        {
+            "term": "world",
+            "scheme": null,
+            "label": null
+        }
+    ],
+    "authors": [
+        {
+            "name": "Matt Levine"
+        }
+    ],
+    "author": "Matt Levine",
+    "author_detail": {
+        "name": "Matt Levine"
+    },
+    "published": "Fri, 10 Mar 2023 20:34:05 GMT",
+    "published_parsed": [
+        2023,
+        3,
+        10,
+        20,
+        34,
+        5,
+        4,
+        69,
+        0
+    ]
+}
